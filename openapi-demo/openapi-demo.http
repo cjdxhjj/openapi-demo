@@ -1,0 +1,6 @@
+@openapi_demo_HostAddress = http://localhost:5216
+
+GET {{openapi_demo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
